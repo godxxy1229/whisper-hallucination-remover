@@ -2,8 +2,9 @@
 
 [![버전](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/godxxy1229/whisper-hallucination-remover)
 
-한국어 음성을 Whisper V3 Turbo로 음성 인식할 때 발생하는 환각 현상을 줄이기 위한 모듈을 만들었습니다.
-STT(Speech-to-Text) 결과에서 발생하는 환각(hallucination) 현상을 제거하기 위한 텍스트 처리 도구입니다. Whisper 등의 STT 모델에서 발생하는 불필요한 텍스트, 반복 패턴, 비정상적인 언어 혼합을 제거합니다.
+한국어 음성을 Whisper V3 Turbo로 음성 인식할 때 발생하는 환각(hallucination) 현상을 줄이기 위한 모듈을 만들었습니다.
+
+Whisper 등의 STT 모델에서 발생하는 불필요한 텍스트, 반복 패턴, 비정상적인 언어 혼합을 제거합니다.
 
 ## 주요 기능
 

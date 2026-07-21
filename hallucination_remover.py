@@ -282,6 +282,7 @@ class HallucinationRemover:
     def _remove_ending_phrases(self, text):
         """다국어 끝맺음 구문 및 자막 관련 문구 제거"""
         ending_phrases = [
+            r'시청해 주셔서 감사합니다\.?',
             r'시청해주셔서 감사합니다\.?',
             r'Thank you\.?',
             r'Gracias\.?',
